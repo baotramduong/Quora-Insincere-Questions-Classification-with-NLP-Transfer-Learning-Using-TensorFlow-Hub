@@ -1,4 +1,4 @@
-# Quora Insincere Questions Classification with NLP TensorFlow Hub
+# Quora Insincere Questions Classification with NLP Transfer Learning Using TensorFlow Hub
 
 ## Blog
 
@@ -32,3 +32,7 @@ The dataset is from Kaggle competition [Quora Insincere Questions Classification
 <img src = '../main/Data & Images/accuracy.png'>
 
 <img src = '../main/Data & Images/loss.png'>
+
+## Reference
+
+Kekre, S. (n.d.). Transfer Learning for NLP with TensorFlow Hub [MOOC]. Coursera. https://www.coursera.org/projects/transfer-learning-nlp-tensorflow-hub
