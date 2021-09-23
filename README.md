@@ -8,13 +8,16 @@
 
 We are going to improve the quality of discussions on Quora platform by detecting toxic content. Specifically, we want to build a predictive NLP model that labels questions asked on Quora as either since sincere or insincere.
 
-<img src = '../main/Data & Images/df.png' height='65%' width='65%'> 
-
-<img src = '../main/Data & Images/df_info.png' height='50%' width='50%'>
-
 ## Data Source
 
 The dataset is from Kaggle competition [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification). 
+
+
+<img src = '../main/Data & Images/df.png' height='65%' width='65%'> 
+
+### Summary
+
+<img src = '../main/Data & Images/df_info.png' height='65%' width='65%'>
 
 ## Exploratory Data Analysis
 
@@ -26,6 +29,6 @@ The dataset is from Kaggle competition [Quora Insincere Questions Classification
 
 ## Modeling
 
-<img src = '../main/Data & Images/acc.png'>
+<img src = '../main/Data & Images/accuracy.png'>
 
 <img src = '../main/Data & Images/loss.png'>
