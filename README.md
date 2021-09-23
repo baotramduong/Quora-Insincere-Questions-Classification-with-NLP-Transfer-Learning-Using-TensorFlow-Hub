@@ -1,4 +1,4 @@
-# Quora-Insincere-Questions-with-NLP-Tensorflow-Hub
+# Quora Insincere Questions Classification with NLP TensorFlow Hub
 
 ## Blog
 
