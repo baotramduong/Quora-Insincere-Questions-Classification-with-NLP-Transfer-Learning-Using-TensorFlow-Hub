@@ -6,7 +6,7 @@
 
 ## Introduction
 
-We are going to improve the quality of discussions on Quora platform by detecting toxic content. Specifically, we want to build a predictive NLP model that labels questions asked on Quora as either since sincere or insincere.
+We are going to improve the quality of discussions on Quora platform by detecting toxic content. Specifically, we want to build a predictive NLP model that labels questions asked on Quora as either sincere or insincere.
 
 ## Data Source
 
