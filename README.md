@@ -2,7 +2,7 @@
 
 ## Blog
 
-[Medium Blog]()
+[Medium Blog](https://baotramduong.medium.com/quora-insincere-questions-classification-with-nlp-transfer-learning-using-tensorflow-hub-b01ad036c0f0)
 
 ## Introduction
 
